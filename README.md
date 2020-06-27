@@ -1,0 +1,1 @@
+This is basic Budget calculator web application for calculating the expenses and making a list of it.
